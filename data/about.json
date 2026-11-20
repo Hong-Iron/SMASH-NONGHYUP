@@ -1,0 +1,34 @@
+{
+ "region": "경기 고양시 덕양구 원신동",
+ "nameEn": "Nonghyup University",
+ "added": "2026-11-01T02:27",
+ "rank": 139,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "JOONGBU-GOYANG",
+   "campus": "중부대학교 고양캠퍼스",
+   "km": 6.2
+  },
+  {
+   "code": "DGU-BIOMEDI",
+   "campus": "동국대학교 바이오메디캠퍼스",
+   "km": 6.2
+  },
+  {
+   "code": "KAU",
+   "campus": "한국항공대학교",
+   "km": 6.6
+  },
+  {
+   "code": "SCU",
+   "campus": "서울기독대학교",
+   "km": 7.4
+  },
+  {
+   "code": "SWCN",
+   "campus": "서울여자간호대학교",
+   "km": 9.5
+  }
+ ]
+}
